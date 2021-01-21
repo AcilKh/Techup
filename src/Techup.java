@@ -5,6 +5,7 @@ public class Techup {
 		System.out.println("Bonjour");
 		System.out.println("Hello");
 		System.out.println("Les amis");
+		System.out.println("Les potes");
 	}
 
 }
