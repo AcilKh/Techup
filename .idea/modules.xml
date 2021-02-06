@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Backend-service/Backend-service.iml" filepath="$PROJECT_DIR$/Backend-service/Backend-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Techup.iml" filepath="$PROJECT_DIR$/Techup.iml" />
     </modules>
   </component>
